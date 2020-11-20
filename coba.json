@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Subastian",
+        "umur": 20,
+        "nrp": "183040064",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ]
+    },
+    {
+        "nama": "Subastian",
+        "umur": 20,
+        "nrp": "183040064",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ]
+    }
+]
